@@ -16,3 +16,8 @@
 .webgl-content .footer .webgl-logo {background-image: url('webgl-logo.png'); width: 204px; float: left;}
 .webgl-content .footer .title {margin-right: 10px; float: right;}
 .webgl-content .footer .fullscreen {background-image: url('fullscreen.png'); width: 38px; float: right;}
+
+body{background: #f1e5c7; min-height: 100vh;}
+.logo-container{height:8vw; width: 25vw; margin: 1vw;}
+.logo-container img{width: 100%; vertical-align: top;}
+.footer img{width: 100%; bottom: 0;}
